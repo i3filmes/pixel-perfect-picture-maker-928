@@ -80,7 +80,7 @@ function Index() {
           </div>
           <div className="rise md:col-span-6 md:col-start-6" style={{ animationDelay: "500ms" }}>
             <p className="text-lg leading-relaxed text-muted-foreground">
-              Ianka e Juninho, será uma alegria imensa fazer parte desse capítulo tão especial da história de vocês. Queremos transformar esse anúncio em uma recordação que poderá ser revivida e compartilhada por muitos anos.
+              Ianka e Juninho, será uma alegria imensa fazer parte desse capítulo tão especial da história de vocês. Queremos transformar esse momento em uma recordação que poderá ser revivida e compartilhada por muitos anos.
             </p>
           </div>
         </div>
