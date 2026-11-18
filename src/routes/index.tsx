@@ -1,6 +1,6 @@
+
 import { createFileRoute } from "@tanstack/react-router";
 import { Reveal } from "@/components/proposta/Reveal";
-//import logo from "@/public/T2.png";
 
 const WHATSAPP = "https://wa.me/5583996108908";
 
@@ -62,7 +62,7 @@ function Index() {
       {/* Hero */}
       <section className="relative mx-auto flex min-h-screen max-w-6xl flex-col px-6 py-8 md:px-10">
         <header className="rise flex items-center justify-between">
-          <img src={logo.url} alt="i3 Filmes Audiovisual" className="h-9 w-auto md:h-11" />
+          <img src="/T2.png" alt="i3 Filmes Audiovisual" className="h-9 w-auto md:h-11" />
           <span className="hidden text-xs tracking-[0.3em] text-muted-foreground sm:block">UMA PROPOSTA ESPECIAL</span>
         </header>
 
