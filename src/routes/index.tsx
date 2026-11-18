@@ -29,7 +29,7 @@ const included = [
   "Organização da proposta visual do vídeo.",
   "Captação audiovisual do anúncio de gravidez.",
   "Direção e orientação durante a gravação, buscando naturalidade e espontaneidade.",
-  "Edição e finalização de um vídeo.",
+  "Edição e finalização de um vídeo de até 60s.",
   "Entrega do material finalizado.",
 ];
 
