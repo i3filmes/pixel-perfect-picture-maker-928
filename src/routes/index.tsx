@@ -196,7 +196,7 @@ function Index() {
 
       <footer className="border-t border-border">
         <div className="mx-auto flex max-w-6xl flex-col items-start justify-between gap-6 px-6 py-10 sm:flex-row sm:items-center md:px-10">
-          <<img src="/T2.png" alt="i3 Filmes Audiovisual" className="h-8 w-auto" loading="lazy" />
+          <img src="/T2.png" alt="i3 Filmes Audiovisual" className="h-8 w-auto" loading="lazy" />
           <p className="font-serif text-lg italic">Feito com carinho para Ianka & Juninho.</p>
           <p className="text-xs tracking-[0.2em] text-muted-foreground">i3 FILMES AUDIOVISUAL</p>
         </div>
