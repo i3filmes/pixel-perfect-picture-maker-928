@@ -30,7 +30,7 @@ const included = [
   "Captação audiovisual do anúncio de gravidez.",
   "Direção e orientação durante a gravação, buscando naturalidade e espontaneidade.",
   "Edição e finalização de um vídeo.",
-  "Entrega digital do material finalizado.",
+  "Entrega do material finalizado.",
 ];
 
 function Eyebrow({ children }: { children: string }) {
@@ -102,7 +102,7 @@ function Index() {
           </Reveal>
           <Reveal className="md:col-span-6 md:col-start-7 md:pt-16" delay={150}>
             <p className="text-lg leading-relaxed text-muted-foreground">
-              Existem momentos que merecem ser lembrados com todo o cuidado do mundo. A descoberta de uma nova vida é um deles. Nossa proposta é produzir um registro audiovisual especial para eternizar o anúncio da gravidez de vocês, cuidando dos detalhes para que tudo aconteça de forma natural, emocionante e autêntica.
+              Existem momentos que merecem ser lembrados com todo o cuidado do mundo. A descoberta de uma nova vida é um deles. Nossa proposta é produzir um registro audiovisual especial para eternizar o anúncio da gravidez de Ianka, cuidando dos detalhes para que tudo aconteça de forma natural, emocionante e autêntica.
             </p>
           </Reveal>
         </div>
