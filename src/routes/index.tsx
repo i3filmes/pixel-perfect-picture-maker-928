@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Reveal } from "@/components/proposta/Reveal";
-import logo from "@/assets/i3-filmes-logo.png.asset.json";
+import logo from "@/assets/T2.png";
 
 const WHATSAPP = "https://wa.me/5583996108908";
 
